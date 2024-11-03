@@ -1,0 +1,4 @@
+# config.yml
+
+# Discord webhook URL for staff logs
+webhook_url: "YOUR_WEBHOOK_URL"
